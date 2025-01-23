@@ -41,6 +41,7 @@ A **Smart Parking System** designed to streamline and optimize parking managemen
    ```bash
    https://github.com/RR21-crypto/STM-32-SMART-PATKING-SYSTEM-.git
 2.Open the project in Keil uVision.
+
 3.Flash the code to your STM32 microcontroller.
 
 4.Assemble the hardware setup as per the schematic diagram.
