@@ -42,8 +42,11 @@ A **Smart Parking System** designed to streamline and optimize parking managemen
    https://github.com/RR21-crypto/STM-32-SMART-PATKING-SYSTEM-.git
 2.Open the project in Keil uVision.
 3.Flash the code to your STM32 microcontroller.
+
 4.Assemble the hardware setup as per the schematic diagram.
+
 5.Power up the system and monitor parking status.
+
 ## Use Cases 🏙️
 Parking Lots: Automate the detection and management of parking spaces in commercial or residential areas.
 Smart Cities: Integration with IoT systems for real-time parking availability data.
